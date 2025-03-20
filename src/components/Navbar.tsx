@@ -30,7 +30,7 @@ const Navbar = () => {
           <Link href="/" className={styles.logoLink}>
             <div className={styles.logoContainer}>
               <Image
-                src="/images/logo.png"
+                src="/ProjectCLMC/images/logo.png"
                 alt="Church logo"
                 fill
                 style={{ objectFit: 'contain' }}

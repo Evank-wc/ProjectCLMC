@@ -78,7 +78,7 @@ export default function About() {
               boxShadow: '0 8px 32px rgba(0, 0, 0, 0.3)'
             }}>
               <Image
-                src="/images/churchban.jpg"
+                src="/ProjectCLMC/images/churchban.jpg"
                 alt="Church history"
                 fill
                 style={{ objectFit: 'cover' }}
@@ -126,7 +126,7 @@ export default function About() {
                 boxShadow: '0 4px 20px rgba(255, 193, 7, 0.2)'
               }}>
                 <Image
-                  src='/images/revjk.jpg'
+                  src='/ProjectCLMC/images/revjk.jpg'
                   alt={churchLeaders[0].name}
                   fill
                   style={{ objectFit: 'cover' }}
