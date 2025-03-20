@@ -181,7 +181,7 @@ export default function Home() {
               boxShadow: '0 8px 32px rgba(var(--accent-red), 0.2)'
             }}>
               <Image
-                src="/images/church1.jpg"
+                src="/ProjectCLMC/images/church1.jpg"
                 alt="Church interior"
                 fill
                 style={{ objectFit: 'cover' }}
